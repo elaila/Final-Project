@@ -1,0 +1,21 @@
+Last login: Thu Dec 13 21:17:09 on ttys000
+Lailas-MacBook-Pro:~ lailaelnaggar$ cd desktop
+Lailas-MacBook-Pro:desktop lailaelnaggar$ cd final-project-elaila
+Lailas-MacBook-Pro:final-project-elaila lailaelnaggar$ python3 SI206FinalProject.py
+This list shows the average popularity of the top ten tracks of ten artists
+[('Travis Scott', 81.4), ('Drake', 84.9), ('Billie Eilish', 83.8), ('Kanye West', 75.9), ('Khalid', 80.0), ('Halsey', 75.3), ('Ariana Grande', 85.9), ('SZA', 72.2), ('Maroon 5', 72.8), ('Shawn Mendes', 79.4)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
